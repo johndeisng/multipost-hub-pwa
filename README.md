@@ -1,2 +1,12 @@
-# multipost-hub-pwa
-App PWA para publicar Reels/Shorts/Posts en multiplataforma
+# Social Post App — PWA (Plantillas + Hashtags + UTM)
+
+## Local
+npm install
+npm run dev
+
+## Build
+npm run build
+npm run preview
+
+## Deploy (Vercel)
+Output: dist
